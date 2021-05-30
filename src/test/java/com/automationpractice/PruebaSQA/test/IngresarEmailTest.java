@@ -8,10 +8,10 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import com.automationpractice.PruebaSQA.pages.IngresarEmailPage;
-import com.automationpractice.PruebaSQA.pages.LoguearCuentaPage;
-import com.automationpractice.PruebaSQA.pages.PaginaPrincipalPage;
-import com.automationpractice.PruebaSQA.pages.RegistrarCuentaPage;
+import com.automationpractice.RetoUnoSqa.pages.IngresarEmailPage;
+import com.automationpractice.RetoUnoSqa.pages.LoguearCuentaPage;
+import com.automationpractice.RetoUnoSqa.pages.PaginaPrincipalPage;
+import com.automationpractice.RetoUnoSqa.pages.RegistrarCuentaPage;
 
 public class IngresarEmailTest {
 
